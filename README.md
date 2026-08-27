@@ -76,9 +76,9 @@ cookie获取方法：
 
 费用如下：
 ```python
-日卡：使用期限1天，39元。适合试用等临时场景
+日卡：使用期限1天，19元。适合试用等临时场景
 月卡：使用期限1个月，149元。适合短期采集需求
-季卡：使用期限3个月，399元。适合中期采集需求
+季卡：使用期限3个月，349元。适合中期采集需求
 年卡：使用期限1年，799元。适合长期采集需求
 ```
 **[点击这里，自助开通！](https://mgnb.pro/product/douyin)**
@@ -93,7 +93,7 @@ cookie获取方法：
 
 # 五、软件包获取
 
-**本项目已整合到[爬抖音聚合软件(douyin_one_spider)](https://github.com/54514382/douyin_one_spider)，建议直接使用聚合版本，功能更全面、维护更及时！**
+**本项目已整合到[爬抖音聚合软件(douyin_one_spider)](https://github.com/mashukui/douyin_one_spider)，建议直接使用聚合版本，功能更全面、维护更及时！**
 
 公众号"**老男孩的平凡之路**"，后台回复"**爬抖音聚合软件**"获取最新软件安装包。
 <img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/a88afd39-cae8-4742-ac33-711c97ced145" />
